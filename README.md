@@ -39,4 +39,4 @@ Each mock scenario enables you  to:
 
 ---
 
-Each pack is designed to be self-contained, IQA-ready, and suitable for upload to OneFile, Moodle, or SharePoint.
+Each pack is designed to be self-contained, IQA-ready, and suitable for practice.

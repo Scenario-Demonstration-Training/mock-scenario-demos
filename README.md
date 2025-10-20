@@ -16,23 +16,13 @@ Each mock scenario enables you  to:
 
 ---
 
-## Repository Structure
-
-| Folder | Description |
-|---------|--------------|
-| `Level3_Retail_Tracker/` | Scenario analysing fashion sales and customer behaviour |
-| `Level3_Streaming_Wars/` | Scenario comparing Netflix, Disney+, and Prime Video |
-| `Level3_The_Traitors/` | Scenario based on a team challenge dataset |
-| `Templates/` | Reusable worksheet and marking-guide templates |
-| `Resources/` | Formula guides, example charts, and support materials |
-
 ## Assessment Mapping
 
-| Stage | Apprentice Must Do | Example Evidence |
+| Stage | You Must Do | Example Evidence |
 |--------|--------------------|------------------|
 | 1. Get Data | Import from multiple sources | CSV files successfully opened |
 | 2. Prepare Data | Clean, remove duplicates | Duplicate check documented |
-| 3. Blend Data | Join using key field | Correct XLOOKUP used |
+| 3. Blend Data | Join using key field | Correct XLOOKUP, VLOOKUP or Join used |
 | 4. Analyse Data | Apply formulas, Pivots | Totals by product and region |
 | 5. Present Data | Charts or dashboard | Clear visuals included |
 | 6. Communicate Insights | Explain findings | Written summary and reflection |

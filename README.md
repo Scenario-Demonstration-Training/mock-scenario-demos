@@ -24,7 +24,7 @@ Each mock scenario enables you  to:
 | 1. Get Data | Import from multiple sources | CSV files successfully opened |
 | 2. Prepare Data | Clean, remove duplicates | Duplicate check documented |
 | 3. Blend Data | Join using key field | Correct XLOOKUP, VLOOKUP or Join used |
-| 4. Analyse Data | Apply formulas, Pivots | Totals by product and region |
+| 4. Analyse Data | Apply formulas, Pivots | Various data analytical requests |
 | 5. Present Data | Charts or dashboard | Clear visuals included |
 | 6. Communicate Insights | Explain findings | Written summary and reflection |
 

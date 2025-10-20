@@ -40,8 +40,8 @@ Each mock scenario enables you  to:
 
 | Scenario | Key Tasks | Difficulty |
 |-----------|------------|-------------|
-| **Retail Tracker – Fashion & Accessories** | Import and clean sales data; remove duplicates; join datasets using XLOOKUP; apply IF and SUMIFS; create Pivot Tables and Charts; interpret and reflect | **6 / 10 – Core Level 3** |
-| **Streaming Wars – Excel** | Import viewing data; blend datasets using XLOOKUP; use SUMIF, AVERAGEIF, and AVERAGEIFS; build Pivot Table and Chart; compare satisfaction and cost; write analytical summary | **7.5 / 10 – Stretch Level 3** |
+| **Retail Tracker – Fashion & Accessories** | Import and clean sales data; remove duplicates; join datasets using XLOOKUP; apply IF and SUMIFS; create Pivot Tables and Charts; interpret and reflect | **8 / 10 – Core Level 3 (Challenging but achievable)** |
+| **Streaming Wars – Excel** | Import viewing data; blend datasets using XLOOKUP; use SUMIF, AVERAGEIF, and AVERAGEIFS; build Pivot Table and Chart; compare satisfaction and cost; write analytical summary | **9 / 10 – Stretch Level 3 (High-confidence practice)** |
 
 
 

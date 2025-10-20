@@ -30,7 +30,7 @@ Each mock scenario enables you  to:
 
 ## Tools Used
 
-- Microsoft Excel 365 (recommended)  
+- Microsoft Excel 365 (core)  
 - Power Query (optional for extension)  
 - Power BI Desktop (optional for advanced visualisation)
 

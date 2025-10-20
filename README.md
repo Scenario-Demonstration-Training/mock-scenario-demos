@@ -9,7 +9,7 @@ Each scenario replicates realistic workplace data tasks using Excel or Power BI 
 
 Each mock scenario enables you  to:
 - Get, clean, and blend datasets
-- Use formulas such as XLOOKUP, IF, and SUMIFS
+- Use formulas
 - Create Pivot Tables and Charts to analyse and present data
 - Interpret and explain insights clearly
 - Apply good data-quality and security practices
